@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "shikha",
+      "email": "shikha@gmail.com",
+      "gender": "female",
+      "status": "active",
+      "id": 10
+    },
+    {
+      "id": 6,
+      "name": "Prayag Mukhopadhyay II",
+      "email": "mukhopadhyay_ii_prayag@haag.com",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "Susheel Dwivedi MD",
+      "email": "dwivedi_md_susheel@mitchell.io",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "name": "shikha",
+      "email": "shikha2@gmail.com",
+      "gender": "",
+      "status": "",
+      "id": 11
+    }
+  ]
+}
